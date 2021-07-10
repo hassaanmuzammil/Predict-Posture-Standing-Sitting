@@ -41,7 +41,7 @@ Only two functions were added to the original code
 
 **Comments**
 
-While there maybe a case of confusing standing with lying, this was beyond the scope of this assignment and thus the issue was ignored. 
+The .ipynb file summarizes my work. The rest is just integrating my work into the main program
 
 **References**
 
