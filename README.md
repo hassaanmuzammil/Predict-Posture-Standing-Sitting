@@ -1,6 +1,9 @@
 # Predict-Posture-Standing-Sitting
 Predict whether a person is standing or sitting.
 
+**Code Reproduction**
+The code can be reproduced using exactly the same instructions as described here: https://github.com/asimniazi63/pose-detection 
+
 **Introduction**
 
 The task was to add a poster prediction function to the file that outputs x,y coordinates of body parts given an input image.
