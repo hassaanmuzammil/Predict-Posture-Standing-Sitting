@@ -36,6 +36,9 @@ Only two functions were added to the original code
 1) get_angle - gets the angle formed from three points
 2) get_posture - infers posture from a set of coordinates of body parts using the get_angle function
 
+**Sample Output**
+![image](https://user-images.githubusercontent.com/52124348/125157839-9fee6480-e186-11eb-8fb0-2fb8911be9dd.png)
+
 **Comments**
 
 While there maybe a case of confusing standing with lying, this was beyond the scope of this assignment and thus the issue was ignored. 
