@@ -2,8 +2,20 @@
 Predict whether a person is standing or sitting.
 
 **Code Reproduction**
-The code can be reproduced using the same instructions as described here: https://github.com/asimniazi63/pose-detection 
-Just replace the inference.py file with its new version from here
+The code can be reproduced using the same instructions as described here: https://github.com/asimniazi63/pose-detection
+
+```
+git clone https://github.com/hassaanmuzammil/Predict-Posture-Standing-Sitting.git
+```
+```
+cd Predict-Posture-Standing-Sitting
+```
+```
+pip install -r requirements.txt
+```
+```
+python inference.py --path=input/example_standing.jpg --model=II --framework=tflite --visualize --store
+```
 
 **Introduction**
 
