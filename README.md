@@ -2,7 +2,8 @@
 Predict whether a person is standing or sitting.
 
 **Code Reproduction**
-The code can be reproduced using exactly the same instructions as described here: https://github.com/asimniazi63/pose-detection 
+The code can be reproduced using the same instructions as described here: https://github.com/asimniazi63/pose-detection 
+Just replace the inference.py file with its new version from here
 
 **Introduction**
 
